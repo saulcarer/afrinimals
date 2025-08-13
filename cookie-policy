@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+  <title>Cookie Policy</title>
+  <style>
+    body {
+      width:98%;
+      height:auto;
+      margin:40px auto;
+      padding:20px;
+      background:#383642;
+      color:#D4CDF3;
+    }
+    h1 {
+      font-size:40px;
+    }
+  </style>
+</head>
+<body>
+  <h1><b>Cookie Policy.</b></h1>
+  <p>This Cookie Policy explains how our afrinimals website uses cookies and similar technologies to manage your session and improve your experience.</p>
+  <h2><b>1. What Are Cookies?</b></h2>
+  <p>Cookies are small text files that are stored on your device when you visit a website. They help websites remember certain information about your visit, such as your preferences or session status.</p>
+  <h2><b>2. What We Use. </b></h2>
+  <p>We only use essential technologies such as <b>local storage</b> and <b>session data</b> for the following purposes:</p>
+  <ul>
+    <li>To enable users to connect their TON wallet via TonConnect.</li>
+    <li>To remember the connected wallet session between page reloads.</li>
+    <li>To maintain security and prevent abuse.</li>
+  </ul>
+  <h2><b>3. No Tracking or Analytics. </b></h2>
+  <p>We do not use any third-party tracking, advertising, or analytics cookies and if we to include so we shall include it here.</p>
+  <h2><b>4. Consent.</b></h2>
+  <p>Because we only use essential technologies, your continued use of the site is considered consent to this use. You do not need to provide additional cookie consent.</p>
+ <h2><b>5. How to Control Cookies. </b></h2>
+  <p>If you'd like to delete or block local storage or cookies, you can do so through your browser settings. However, this may affect the functionality of the wallet connection.</p>
+  <br>
+  <br>
+       <a class="first10-1" href="Donate.html" role="button"><b>DONATE </b></a>
+  <br>
+ </body>
+</html>
